@@ -52,8 +52,8 @@ La cédula colombiana es el identificador central del ciudadano. Con el número 
 | Registro civil | Registraduría Nacional | Certificados de registro civil, nombre, apellido, oficina de registro, Nuip/Nip/Tarjeta de Identidad |  Número de cédula | https://consultasrc.registraduria.gov.co:28080/ProyectoSCCRC/ |
 | Antecedentes judiciales | Policía Nacional | Récord judicial | Número de cédula | https://antecedentes.policia.gov.co:7005/WebJudicial/ |
 | Documentos recuperados | Policía Nacional | Documentos en custodia de la Policía | Número de cédula| https://www.policia.gov.co/documentos-recuperados |
-| Antecedentes disciplinarios | Procuraduría General | Sanciones disciplinarias | Por verificar | https://www.procuraduria.gov.co/Pages/Consulta-de-Antecedentes.aspx |
-| Antecedentes fiscales | Contraloría General | Responsabilidades fiscales | Por verificar | https://www.contraloria.gov.co/control-fiscal/responsabilidad-fiscal/control-fiscal/responsabilidad-fiscal/certificado-de-antecedentes-fiscales/persona-natural |
+| Antecedentes disciplinarios | Procuraduría General | Sanciones disciplinarias | Número de cédula | https://www.procuraduria.gov.co/Pages/Consulta-de-Antecedentes.aspx |
+| Antecedentes fiscales | Contraloría General | Responsabilidades fiscales | Número de Cédula | https://www.contraloria.gov.co/web/guest/persona-natural |
 | Sistema penal (SPOA) | Fiscalía General | Indagaciones e investigaciones | Por verificar | https://www.fiscalia.gov.co/colombia/servicios-de-informacion-al-ciudadano/consultas/ |
 | Situación militar | Ejército Nacional | Estado de la libreta militar | Por verificar | https://www.libretamilitar.mil.co/modules/consult/militarysituation |
 | Libreta militar (certificado) | Ejército Nacional | Certificado de la tarjeta militar | Por verificar | https://www.libretamilitar.mil.co/Modules/Consult/MilitaryCardCertificate |
