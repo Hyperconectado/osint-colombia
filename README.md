@@ -48,10 +48,10 @@ La cédula colombiana es el identificador central del ciudadano. Con el número 
 | Fuente | Entidad | Qué entrega | Requisitos | URL |
 |--------|---------|-------------|------------|-----|
 | Estado de la cédula | Registraduría Nacional | Vigencia del documento, nombre, lugar de expedición | Nº cédula + fecha de expedición + captcha | https://certvigenciacedula.registraduria.gov.co/Datos.aspx |
-| Lugar de votación | Registraduría Nacional | Municipio y puesto de votación | Por verificar | https://wsp.registraduria.gov.co/censo/consultar/ |
-| Registro civil | Registraduría Nacional | Certificados de registro civil, nombre, apellido, oficina de registro, Nuip/Nip/Tarjeta de Identidad | Por verificar | https://consultasrc.registraduria.gov.co:28080/ProyectoSCCRC/ |
-| Antecedentes judiciales | Policía Nacional | Récord judicial | Por verificar | https://antecedentes.policia.gov.co:7005/WebJudicial/ |
-| Documentos recuperados | Policía Nacional | Documentos en custodia de la Policía | Por verificar | https://www.policia.gov.co/documentos-recuperados |
+| Lugar de votación | Registraduría Nacional | Municipio y puesto de votación | Número de cédula | https://wsp.registraduria.gov.co/censo/consultar/ |
+| Registro civil | Registraduría Nacional | Certificados de registro civil, nombre, apellido, oficina de registro, Nuip/Nip/Tarjeta de Identidad |  Número de cédula | https://consultasrc.registraduria.gov.co:28080/ProyectoSCCRC/ |
+| Antecedentes judiciales | Policía Nacional | Récord judicial | Número de cédula | https://antecedentes.policia.gov.co:7005/WebJudicial/ |
+| Documentos recuperados | Policía Nacional | Documentos en custodia de la Policía | Número de cédula| https://www.policia.gov.co/documentos-recuperados |
 | Antecedentes disciplinarios | Procuraduría General | Sanciones disciplinarias | Por verificar | https://www.procuraduria.gov.co/Pages/Consulta-de-Antecedentes.aspx |
 | Antecedentes fiscales | Contraloría General | Responsabilidades fiscales | Por verificar | https://www.contraloria.gov.co/control-fiscal/responsabilidad-fiscal/control-fiscal/responsabilidad-fiscal/certificado-de-antecedentes-fiscales/persona-natural |
 | Sistema penal (SPOA) | Fiscalía General | Indagaciones e investigaciones | Por verificar | https://www.fiscalia.gov.co/colombia/servicios-de-informacion-al-ciudadano/consultas/ |
