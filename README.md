@@ -51,7 +51,6 @@ La cédula colombiana es el identificador central del ciudadano. Con el número 
 | Lugar de votación | Registraduría Nacional | Municipio y puesto de votación | Por verificar | https://wsp.registraduria.gov.co/censo/consultar/ |
 | Registro civil | Registraduría Nacional | Certificados de registro civil, nombre, apellido, oficina de registro, Nuip/Nip/Tarjeta de Identidad | Por verificar | https://consultasrc.registraduria.gov.co:28080/ProyectoSCCRC/ |
 | Antecedentes judiciales | Policía Nacional | Récord judicial | Por verificar | https://antecedentes.policia.gov.co:7005/WebJudicial/ |
-| Pérdida de documentos | Policía Nacional | Constancia de denuncia | Por verificar | https://webrp.policia.gov.co:444/publico/buscador_constancia.aspx |
 | Documentos recuperados | Policía Nacional | Documentos en custodia de la Policía | Por verificar | https://www.policia.gov.co/documentos-recuperados |
 | Antecedentes disciplinarios | Procuraduría General | Sanciones disciplinarias | Por verificar | https://www.procuraduria.gov.co/Pages/Consulta-de-Antecedentes.aspx |
 | Antecedentes fiscales | Contraloría General | Responsabilidades fiscales | Por verificar | https://www.contraloria.gov.co/control-fiscal/responsabilidad-fiscal/control-fiscal/responsabilidad-fiscal/certificado-de-antecedentes-fiscales/persona-natural |
