@@ -7,7 +7,7 @@
 
 ## ⚠️ Aviso ético y legal
 
-Este repositorio recopila **exclusivamente fuentes públicas y oficiales** del Estado colombiano y otros recursos de acceso abierto. Su propósito es académico, investigativo y de formación en inteligencia.
+Este repositorio recopila **exclusivamente fuentes públicas y oficiales** del Estado colombiano y otros recursos de acceso abierto. Su propósito es académico, investigativo y de formación.
 
 - El uso de estas fuentes sobre **funcionarios públicos en ejercicio** es legítimo dentro del marco del derecho al acceso a la información (Ley 1712 de 2014).
 - Consultar estas fuentes sobre **ciudadanos privados sin propósito investigativo justificado** puede constituir una violación al habeas data (Ley 1581 de 2012).
@@ -338,4 +338,4 @@ Este repositorio se distribuye bajo licencia **MIT**. El contenido es de caráct
 
 ---
 
-*Mantenido por [@tu-usuario-github] — ESICI, Escuela de Inteligencia y Contrainteligencia, Colombia.*
+*Mantenido por [@Hyperconectado] — 
