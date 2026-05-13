@@ -45,27 +45,27 @@ La cédula colombiana es el identificador central del ciudadano. Con el número 
 
 ### Fuentes directas por número de cédula
 
-| Fuente | Entidad | Qué entrega | URL |
-|--------|---------|-------------|-----|
-| Estado de la cédula | Registraduría Nacional | Vigencia del documento | https://wsp.registraduria.gov.co/certificado/Datos.aspx |
-| Lugar de votación | Registraduría Nacional | Municipio y puesto de votación | https://wsp.registraduria.gov.co/censo/consultar/ |
-| Registro civil | Registraduría Nacional | Certificados de registro civil | https://consultasrc.registraduria.gov.co:28080/ProyectoSCCRC/ |
-| Antecedentes judiciales | Policía Nacional | Récord judicial | https://antecedentes.policia.gov.co:7005/WebJudicial/ |
-| Pérdida de documentos | Policía Nacional | Constancia de denuncia | https://webrp.policia.gov.co:444/publico/buscador_constancia.aspx |
-| Documentos recuperados | Policía Nacional | Documentos en custodia de la Policía | https://www.policia.gov.co/documentos-recuperados |
-| Antecedentes disciplinarios | Procuraduría General | Sanciones disciplinarias | https://www.procuraduria.gov.co/Pages/Consulta-de-Antecedentes.aspx |
-| Antecedentes fiscales | Contraloría General | Responsabilidades fiscales | https://www.contraloria.gov.co/control-fiscal/responsabilidad-fiscal/control-fiscal/responsabilidad-fiscal/certificado-de-antecedentes-fiscales/persona-natural |
-| Sistema penal (SPOA) | Fiscalía General | Indagaciones e investigaciones | https://www.fiscalia.gov.co/colombia/servicios-de-informacion-al-ciudadano/consultas/ |
-| Situación militar | Ejército Nacional | Estado de la libreta militar | https://www.libretamilitar.mil.co/modules/consult/militarysituation |
-| Libreta militar (certificado) | Ejército Nacional | Certificado de la tarjeta militar | https://www.libretamilitar.mil.co/Modules/Consult/MilitaryCardCertificate |
-| RUNT — Persona | Ministerio de Transporte | Licencias de conducción y trámites | https://www.runt.com.co/consultaCiudadana/#/consultaPersona |
-| SISBEN | DNP | Grupo y puntaje de clasificación social | https://www.sisben.gov.co/Paginas/consulta-tu-grupo.aspx |
-| EPS y afiliación en salud | ADRES | EPS a la que está afiliado | https://www.adres.gov.co/BDUA/Consulta-Afiliados-BDUA |
-| RUAF — Seguridad social | SISPRO | Afiliaciones al sistema de seguridad social | https://ruaf.sispro.gov.co/TerminosCondiciones.aspx |
-| SIMIT — Comparendos | FGCF | Multas e infracciones de tránsito | https://consulta.simit.org.co/Simit/indexA.jsp |
-| SIGEP | DAFP | Hoja de vida de servidores públicos | https://www.sigep.gov.co/ |
-| Colpensiones | Colpensiones | Certificado de afiliación / no pensión | https://www.colpensiones.gov.co |
-| Verifíquese (app) | Privado | Consulta cruzada multi-fuente | https://play.google.com/store/apps/details?id=se.verifique.app.cedula |
+| Fuente | Entidad | Qué entrega | Requisitos | URL |
+|--------|---------|-------------|------------|-----|
+| Estado de la cédula | Registraduría Nacional | Vigencia del documento | Nº cédula + fecha de expedición + captcha | https://certvigenciacedula.registraduria.gov.co/Datos.aspx |
+| Lugar de votación | Registraduría Nacional | Municipio y puesto de votación | Por verificar | https://wsp.registraduria.gov.co/censo/consultar/ |
+| Registro civil | Registraduría Nacional | Certificados de registro civil | Por verificar | https://consultasrc.registraduria.gov.co:28080/ProyectoSCCRC/ |
+| Antecedentes judiciales | Policía Nacional | Récord judicial | Por verificar | https://antecedentes.policia.gov.co:7005/WebJudicial/ |
+| Pérdida de documentos | Policía Nacional | Constancia de denuncia | Por verificar | https://webrp.policia.gov.co:444/publico/buscador_constancia.aspx |
+| Documentos recuperados | Policía Nacional | Documentos en custodia de la Policía | Por verificar | https://www.policia.gov.co/documentos-recuperados |
+| Antecedentes disciplinarios | Procuraduría General | Sanciones disciplinarias | Por verificar | https://www.procuraduria.gov.co/Pages/Consulta-de-Antecedentes.aspx |
+| Antecedentes fiscales | Contraloría General | Responsabilidades fiscales | Por verificar | https://www.contraloria.gov.co/control-fiscal/responsabilidad-fiscal/control-fiscal/responsabilidad-fiscal/certificado-de-antecedentes-fiscales/persona-natural |
+| Sistema penal (SPOA) | Fiscalía General | Indagaciones e investigaciones | Por verificar | https://www.fiscalia.gov.co/colombia/servicios-de-informacion-al-ciudadano/consultas/ |
+| Situación militar | Ejército Nacional | Estado de la libreta militar | Por verificar | https://www.libretamilitar.mil.co/modules/consult/militarysituation |
+| Libreta militar (certificado) | Ejército Nacional | Certificado de la tarjeta militar | Por verificar | https://www.libretamilitar.mil.co/Modules/Consult/MilitaryCardCertificate |
+| RUNT — Persona | Ministerio de Transporte | Licencias de conducción y trámites | Por verificar | https://www.runt.com.co/consultaCiudadana/#/consultaPersona |
+| SISBEN | DNP | Grupo y puntaje de clasificación social | Por verificar | https://www.sisben.gov.co/Paginas/consulta-tu-grupo.aspx |
+| EPS y afiliación en salud | ADRES | EPS a la que está afiliado | Por verificar | https://www.adres.gov.co/BDUA/Consulta-Afiliados-BDUA |
+| RUAF — Seguridad social | SISPRO | Afiliaciones al sistema de seguridad social | Por verificar | https://ruaf.sispro.gov.co/TerminosCondiciones.aspx |
+| SIMIT — Comparendos | FGCF | Multas e infracciones de tránsito | Por verificar | https://consulta.simit.org.co/Simit/indexA.jsp |
+| SIGEP | DAFP | Hoja de vida de servidores públicos | Por verificar | https://www.sigep.gov.co/ |
+| Colpensiones | Colpensiones | Certificado de afiliación / no pensión | Por verificar | https://www.colpensiones.gov.co |
+| Verifíquese (app) | Privado | Consulta cruzada multi-fuente | App móvil | https://play.google.com/store/apps/details?id=se.verifique.app.cedula |
 
 ### Lo que revela cada fuente — análisis para el analista
 
