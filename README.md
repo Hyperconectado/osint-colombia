@@ -40,7 +40,8 @@ Este repositorio recopila **exclusivamente fuentes públicas y oficiales** del E
 
 La cédula colombiana es el identificador central del ciudadano. Con el número de cédula es posible acceder a una superficie de información pública significativa a través de fuentes oficiales.
 
-> 📌 **Superficie de exposición de una cédula colombiana** — ver diagrama en [`/cedula/README.md`](./cedula/README.md)
+> 📌 **Superficie de exposición de una cédula colombiana** — ver diagrama en > 🚧 *Diagrama de fuentes por número de cédula — en construcción*
+
 
 ### Fuentes directas por número de cédula
 
